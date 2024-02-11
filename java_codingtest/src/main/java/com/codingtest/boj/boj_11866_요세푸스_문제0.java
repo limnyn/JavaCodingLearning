@@ -15,7 +15,7 @@ import java.util.Scanner;
  * k번째를 출력한다.
  * 
  */
-public class boj_11866 {
+public class boj_11866_요세푸스_문제0 {
     static Scanner sc = new Scanner(System.in);
     static int n, k;
     
