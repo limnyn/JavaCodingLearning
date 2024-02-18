@@ -21,7 +21,7 @@ public class boj_2589_보물섬 {
         for (int i = 0; i < n; i++){
             line = sc.next();
             for(int j = 0; j < m; j++){
-                if (line.charAt(j) == 'W'){
+                if (line.charAt(j) == 'W'){                    
                     grid[i][j] = 0;
                 } else {
                     grid[i][j] = 1;
