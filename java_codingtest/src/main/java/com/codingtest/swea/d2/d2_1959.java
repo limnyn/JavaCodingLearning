@@ -1,4 +1,4 @@
-package com.codingtest;
+package com.codingtest.swea.d2;
 
 import java.util.Scanner;
 
